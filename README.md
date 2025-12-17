@@ -1,5 +1,5 @@
-# 3WAY Thomama - Car Service Management System
-# نظام إدارة خدمات السيارات - 3WAY ثمامة
+# 3WAY  - Car Service Management System
+# نظام إدارة خدمات السيارات - 3WAY 
 
 A comprehensive, bilingual (Arabic/English) car service management system designed for reception staff with easy-to-use interface.
 
